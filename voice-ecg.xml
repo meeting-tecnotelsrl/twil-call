@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Un nuovo ECG è arrivato</Say>
+    <Pause length="1"/>
+    <Say voice="woman">Arrivederci</Say>
+</Response>
